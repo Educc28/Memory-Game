@@ -5,6 +5,7 @@ Como jogar:
   - Caso elas sejam iguais, elas seram descartadas e você ganhará um ponto
   - Caso sejam diferentes, elas voltaram para seu estado inicial
   - Caso selecione a mesma carta duas vezes, ela voltará para seu estado inicial
+    
 Seu objetivo é descartar todas as cartas.
 
 
